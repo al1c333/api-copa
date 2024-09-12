@@ -1,0 +1,1 @@
+Fazer uma requisição para a API e exibir o resultado final da Copa do Mundo, incluindo o campeão e o vice-campeão.
