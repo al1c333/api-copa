@@ -1,6 +1,5 @@
 async function exibir_dados (){
     try {
-        // fazendo requisição para a API
         const response = await fetch("https://worldcupjson.net/matches/64")
         const final_data = await response.json()
         const mainId = document.getElementById("conteudo")
